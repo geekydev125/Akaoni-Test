@@ -1,5 +1,6 @@
 import { Routes, Route } from 'react-router-dom'
 import { Help } from './pages/Help';
+import {useEffect} from 'react';
 import Web3Integration from './pages/Integration';
 
 function App() {
